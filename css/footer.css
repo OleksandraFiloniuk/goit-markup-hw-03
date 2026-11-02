@@ -1,7 +1,10 @@
 .footer {
+  padding: 100px 0;
   background-color: #2e2f42;
 }
 .logo-footer {
+  display: block;
+  margin-bottom: 16px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -15,6 +18,7 @@
 }
 
 .footer-caption {
+  max-width: 264px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
