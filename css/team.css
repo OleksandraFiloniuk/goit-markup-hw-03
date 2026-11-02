@@ -19,14 +19,18 @@
 }
 .team-item {
   border-radius: 0 0 4px 4px;
-  width: calc((100% - 24 * 3) / 4);
+  width: calc((100% - 24px * 3) / 4);
   background: #fff;
 }
 .team-avatar {
-  margin-bottom: 32px;
+  
+}
+.team-content-wrapper {
+  padding: 32px 16px;
+
 }
 .team-member {
-  margin-bottom: 8px;
+  
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -35,7 +39,7 @@
   color: #2e2f42;
 }
 .team-position {
-  margin-bottom: 32px;
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
